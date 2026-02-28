@@ -2,3 +2,7 @@ fastapi
 uvicorn
 sqlalchemy
 pymysql
+passlib[argon2]
+python-jose[crptography]
+python-multipart
+pydantic[email]
